@@ -1,0 +1,17 @@
+.gradle/
+build/
+app/build/
+local.properties
+*.jks
+*.keystore
+keystore.properties
+
+# Locally generated distributables and signing/release material
+*.apk
+*.aab
+.release/
+.backup-before-discovery-fix/
+.kotlin/
+.local-browser-profile/
+*.hprof
+.DS_Store

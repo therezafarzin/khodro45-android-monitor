@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.Khodro45" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="android:windowSplashScreenBackground">@color/icon_background</item>
+    </style>
+</resources>
